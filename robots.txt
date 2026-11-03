@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bubbly.rivonlabs.com/sitemap.xml

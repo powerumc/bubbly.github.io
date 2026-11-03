@@ -1,0 +1,9 @@
+/* 갈무리11 Regular — npm galmuri@2.40.3 묶음의 dist/Galmuri11.woff2(업스트림 태그 v2.40.4의 dist/Galmuri11.woff2와 바이트가 같음)를 고치지 않고 쓴다.
+ * Copyright (c) 2019–2025 Lee Minseo (quiple@quiple.dev), with Reserved Font Name "Galmuri". SIL Open Font License 1.1 — 전문은 사이트의 오픈 소스 고지(licenses/). */
+@font-face {
+  font-family: Galmuri11;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./Galmuri11.woff2') format('woff2');
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Bubbly</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 03 Nov 2026 19:19:27 +0900</pubDate>
+            <sparkle:version>895</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://bubbly.rivonlabs.com/updates/notes/Bubbly-1.0.0.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/powerumc/bubbly.github.io/releases/download/v1.0.0/Bubbly-1.0.0.dmg" length="14835187" type="application/octet-stream" sparkle:edSignature="0xSs8zy/IUkZIFTfMDHZDjfzDm3mzshNgHilfQW9EYsVekPZ0argaeQ3IXc9zEkhCQMfnMJ7s6+W+Emh6NxiDQ=="/>
+        </item>
+    </channel>
+</rss>

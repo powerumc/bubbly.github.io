@@ -1,0 +1,1 @@
+(function(){var e="bubbly.lang";document.addEventListener("click",function(t){var n=t.target instanceof Element?t.target.closest("a[data-lang]"):null;if(!n)return;try{window.localStorage.setItem(e,n.getAttribute("data-lang"))}catch{}})})()
